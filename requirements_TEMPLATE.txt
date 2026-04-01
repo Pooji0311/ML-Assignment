@@ -1,0 +1,38 @@
+# ML Assignment - Python Dependencies
+# Machine Learning Project: Bank Customer Subscription Prediction
+
+# Core Data Science Libraries
+pandas>=3.0.2
+numpy>=2.4.4
+scikit-learn>=1.8.0
+
+# Visualization Libraries
+matplotlib>=3.10.8
+seaborn>=0.13.2
+
+# Jupyter & Notebook
+jupyter>=1.0.0
+jupyter-core>=5.9.1
+ipykernel>=7.2.0
+ipython>=9.10.1
+
+# Preprocessing & Feature Engineering
+scikit-preprocessing>=0.4.0
+
+# Model Evaluation & Metrics
+scipy>=1.17.1
+
+# Optional: For SMOTE (class imbalance handling)
+imbalanced-learn>=0.12.0
+
+# Optional: For Advanced Model Interpretation
+shap>=0.44.0
+
+# Optional: For Extended Hyperparameter Tuning
+optuna>=3.0.0
+
+# Development Tools (Optional)
+jupyter-notebook>=7.0.0
+ipython-genutils>=0.2.0
+
+# Python version: 3.11+
