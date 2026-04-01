@@ -17,7 +17,7 @@ def encode_features(df):
 if __name__ == "__main__":
     df = pd.read_csv("../data/bank.csv", sep=';')
 
-    from data_cleaning import clean_data
+    from Random_forest_Model_ipynb.data_cleaning import clean_data
     df = clean_data(df)
 
     df = encode_features(df)
