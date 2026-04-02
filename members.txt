@@ -1,0 +1,28 @@
+PROJECT TEAM MEMBERS
+====================
+
+Member 1:
+Name: Perera P D 
+ID: IT22254184
+Email:IT22254184@my.sliit.lk
+Contribution: KNN + Preprocessing
+
+Member 2:
+Name: Ekanayake N D
+ID: IT22239334
+Email:IT22239334@my.sliit.lk
+Contribution: Logistic Regression + Preprocessing
+
+Member 3:
+Name: Sankadeepa W.D.I
+ID: IT22113986
+Email: IT22113986@my.sliit.lk
+Contribution: Random Forest + + Preprocessing
+
+
+Member 4: 
+Name: Ranasingha R.A.A.D
+ID: IT22269720
+Email: IT22269720@my.sliit.lk
+Contribution: SVM
+

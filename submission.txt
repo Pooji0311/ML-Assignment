@@ -1,0 +1,35 @@
+
+
+PROJECT TITLE: Bank Customer Subscription Prediction using Machine Learning
+
+==========================
+1. DATASET LINK
+==========================
+
+Dataset Source: UCI Machine Learning Repository - Bank Marketing Dataset
+Dataset URL: https://archive.ics.uci.edu/ml/datasets/bank+marketing
+
+
+
+
+
+==========================
+2. GITHUB REPOSITORY
+==========================
+
+Repository Name: ML-Assignment
+GitHub URL: https://github.com/[your-username]/ML-Assignment
+
+
+
+
+
+==========================
+3. YOUTUBE VIDEO PRESENTATION
+==========================
+
+Video Title: Bank Customer Subscription Prediction - ML Project Presentation
+YouTube URL: https://www.youtube.com/watch?v=[video-id]
+
+
+
