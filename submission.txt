@@ -18,8 +18,7 @@ Dataset URL: https://archive.ics.uci.edu/ml/datasets/bank+marketing
 ==========================
 
 Repository Name: ML-Assignment
-GitHub URL: https://github.com/[your-username]/ML-Assignment
-
+GitHub URL:https://github.com/Pooji0311/ML-Assignment.git
 
 
 
